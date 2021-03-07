@@ -2,7 +2,7 @@
 *Phone:  +375447534153 (Telegram, Viber, WhatsApp), +48696109126*
 
 *Email: yurchik.evgenia@gmail.com*
-*** 
+
 ## *Target position*
 Front-end Developer
 ## *Summary*
