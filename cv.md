@@ -1,5 +1,5 @@
 # **Yurchik Evgenia**
-*Phone:  +375447534153 (Telegram, Viber, WhatsApp), +48696109126*
+*Phone:  @ev_user (Telegram), +48696109126*
 
 ## *Email: yurchik.evgenia@gmail.com*
 
@@ -30,7 +30,7 @@ Description: Development with JavaScript (and React.js), HTML, CSS.
 Department of Public Administration and Law 
 Specialization: lawyer
 ## *Work experience*
-* 03.10.2014 – until now – Representative office of ACE CARGO Ltd. (Republic of Latvia) in the Republic of Belarus / KRAFTTRANS Ltd., lawyer.
+* 03.10.2014 – until now – Representative office of ACE CARGO Ltd. (Republic of Latvia) in the Republic of Belarus / KRAFTTRANS Ltd. / KRAFTTRANS Taurus, lawyer.
 Main responsibilities: corporate law; work with national, Russian and European legislation; GDPR; preparation of legal opinions; negotiating, etc.
 I got acquainted with the specific features of the company and logistics as a sphere in a short period of time. Then I began assisting the head of law department; when she was out of the office, I was a deputy head of the department.
 * 01.08.2012 – 31.08.2014 – Literary Museum of Maksim Bahdanovich, lawyer.
